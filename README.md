@@ -78,4 +78,11 @@ The exercises cover a variety of essential topics such as :
 ### Simple HTTP API
 - Multiple routes (`/`, `/about`, `/api/data`)  
 - JSON responses  
-- Basic backend logic  
+- Basic backend logic
+
+### Tasks API (Express)
+- Simple REST API built with Express
+- Manage a list of tasks stored in memory
+- Create and retrieve tasks
+- Retrieve a task by its id
+- Practice routing, middleware, and JSON responses
