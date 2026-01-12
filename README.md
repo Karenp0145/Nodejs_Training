@@ -1,4 +1,4 @@
-# 🟢 LearnNode
+# 🟢 LearnNodejs
 
 This repository contains Node.js scripts from my first steps in learning backend JavaScript, exploring fundamental Node.js concepts through simple exercises.
 
